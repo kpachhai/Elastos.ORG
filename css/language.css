@@ -1,0 +1,24 @@
+.language_btn{
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 30px;
+  height: 30px;
+  cursor:pointer;
+}
+.language_cn{
+  background: url("../images/icon/cn.png");
+  background-size: 30px 30px;
+}
+.language_cn:hover{
+  background: url("../images/icon/cn@selected.png");
+  background-size: 30px 30px;
+}
+.language_en{
+  background: url("../images/icon/en.png");
+  background-size: 30px 30px;
+}
+.language_en:hover{
+  background: url("../images/icon/en@selected.png");
+  background-size: 30px 30px;
+}

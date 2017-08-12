@@ -1,0 +1,22 @@
+.vidbg {
+  display: flex;
+  position: absolute;
+  overflow: hidden;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -101;
+  background: url("https://i.alipayobjects.com/i/ecmng/png/201501/4Jdkug9K2v.png") no-repeat;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+}
+
+.vidbg video {
+  display: block;
+	object-fit:fill;
+	width: 2500px;
+  height: 100%;
+  z-index: -100;
+}
