@@ -2,4 +2,4 @@
 亦来云官网
 
 
-http://weisong.oschina.io/elastos/
+www.elastos.org
