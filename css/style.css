@@ -30,7 +30,7 @@ NOTE: This is main stylesheet of the template.
             End table content
 ===================================================*/
 
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,900');
+@import url('css.css');
 
 .footer #nav{
   margin: 0 auto;
@@ -642,8 +642,8 @@ a.banner-icon:focus{
     font-weight: 700;
 }
 .about-text p{
-    font-size: 16px;
-    line-height: 28px;
+    /*font-size: 16px;
+    line-height: 28px;*/
 }
 .btn, a.btn {
   cursor: pointer;
@@ -742,7 +742,7 @@ background: #f7f7f7;
 .single-work {
     position: relative;
     margin-bottom: 30px;
-        padding: 60px;
+    padding: 30px;
 }
 .single-work a{
     position: relative;
